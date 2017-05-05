@@ -1,4 +1,5 @@
-/*package com.mkyong.form.web;
+package com.ram.form.web;
+/*package com.ram.form.web;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -16,8 +17,8 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
-import com.mkyong.form.model.User;
-import com.mkyong.form.service.UserService;
+import com.ram.form.model.User;
+import com.ram.form.service.UserService;
 
 @Controller
 public class UserFormController {

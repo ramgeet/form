@@ -1,4 +1,4 @@
-package com.mkyong.form.dao;
+package com.ram.form.dao;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
@@ -20,7 +20,7 @@ import org.springframework.jdbc.support.KeyHolder;
 import org.springframework.stereotype.Repository;
 import org.springframework.util.StringUtils;
 
-import com.mkyong.form.model.User;
+import com.ram.form.model.User;
 
 @Repository
 public class UserDaoImpl implements UserDao {

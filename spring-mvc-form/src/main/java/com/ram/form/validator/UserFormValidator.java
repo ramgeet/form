@@ -1,4 +1,4 @@
-package com.mkyong.form.validator;
+package com.ram.form.validator;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
@@ -7,8 +7,8 @@ import org.springframework.validation.Errors;
 import org.springframework.validation.ValidationUtils;
 import org.springframework.validation.Validator;
 
-import com.mkyong.form.model.User;
-import com.mkyong.form.service.UserService;
+import com.ram.form.model.User;
+import com.ram.form.service.UserService;
 
 //http://docs.spring.io/spring/docs/current/spring-framework-reference/html/validation.html#validation-mvc-configuring
 @Component

@@ -1,4 +1,4 @@
-package com.mkyong.form.web;
+package com.ram.form.web;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -26,10 +26,10 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.servlet.ModelAndView;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
-import com.mkyong.form.model.User;
-import com.mkyong.form.service.UserService;
-import com.mkyong.form.validator.UserFormValidator;
 //import javax.validation.Valid;
+import com.ram.form.model.User;
+import com.ram.form.service.UserService;
+import com.ram.form.validator.UserFormValidator;
 
 //http://www.tikalk.com/redirectattributes-new-feature-spring-mvc-31/
 //https://en.wikipedia.org/wiki/Post/Redirect/Get

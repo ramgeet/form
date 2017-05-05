@@ -1,8 +1,8 @@
-package com.mkyong.form.dao;
+package com.ram.form.dao;
 
 import java.util.List;
 
-import com.mkyong.form.model.User;
+import com.ram.form.model.User;
 
 public interface UserDao {
 

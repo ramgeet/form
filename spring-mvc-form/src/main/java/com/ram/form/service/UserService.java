@@ -1,8 +1,8 @@
-package com.mkyong.form.service;
+package com.ram.form.service;
 
 import java.util.List;
 
-import com.mkyong.form.model.User;
+import com.ram.form.model.User;
 
 public interface UserService {
 

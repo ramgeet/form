@@ -1,4 +1,4 @@
-package com.mkyong.form.config;
+package com.ram.form.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
@@ -12,8 +12,8 @@ import org.springframework.web.servlet.view.JstlView;
 
 @EnableWebMvc
 @Configuration
-@ComponentScan({ "com.mkyong.form.web", "com.mkyong.form.service", "com.mkyong.form.dao",
-		"com.mkyong.form.exception", "com.mkyong.form.validator" })
+@ComponentScan({ "com.ram.form.web", "com.ram.form.service", "com.ram.form.dao",
+		"com.ram.form.exception", "com.ram.form.validator" })
 public class SpringWebConfig extends WebMvcConfigurerAdapter {
 
 	@Override

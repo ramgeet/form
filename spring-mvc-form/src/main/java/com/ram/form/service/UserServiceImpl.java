@@ -1,12 +1,12 @@
-package com.mkyong.form.service;
+package com.ram.form.service;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.mkyong.form.dao.UserDao;
-import com.mkyong.form.model.User;
+import com.ram.form.dao.UserDao;
+import com.ram.form.model.User;
 
 @Service("userService")
 public class UserServiceImpl implements UserService {

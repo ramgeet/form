@@ -1,4 +1,4 @@
- package com.mkyong.form.model;
+ package com.ram.form.model;
 
 import java.util.List;
 
